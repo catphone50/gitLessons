@@ -1,0 +1,74 @@
+    1  version
+    2  help
+    3  git -v
+    4  clear
+    5  git config --dlobal user.name "catphone50"
+    6   clear
+    7  clear
+    8  git config --global user.name 'catphone50'
+    9  git user.name
+   10  git config --global user.name
+   11  git config --global user.email 'catphone50@gmail.com'
+   12  git config --global user.email
+   13  git --config
+   14  git config --list
+   15  git config --global user.name "Nataliia"
+   16  git config --global unser.email "catphone50@gmail.com"
+   17  git config --global user.name "catphone50"
+   18  ls - la
+   19  ls -la
+   20  cd .ssh
+   21  clip < id_rsa.pub
+   22  ls
+   23  cd project
+   24  cd C:\Users\ICH\Documents\project
+   25  cd C:/Users/ICH/Documents/project
+   26  mkdir git-branch
+   27  cd git-branch
+   28  git init
+   29  git checkout -b gitignore
+   30  [200~
+   31  ~curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+   32  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+   33  git add .
+   34  git commit -m ""Add .gitignore file"
+   35  git status
+   36  "
+   37  git status
+   38  git commit -m "add .gitignor fila"
+   39  git remote add origin https://github.com/catphone50/git-branch.git
+   40  git push -u gitignore
+   41  git remote add origin https://github.com/catphone50/git-branch.git
+   42  git push -u origin gitignore
+   43  git push -u origin gitignore
+   44  7D19-D966
+   45  git push -u origin gitignore
+   46  git push -u origin gitignore
+   47  cd C:/Users/ICH/Documents/project/git-branch
+   48  git push -u origin gitignore
+   49  git remote add origin git@github.com:catphone50/gitignore.git
+   50  git remote -v
+   51  git remote remove origin
+   52  git remote add origin https://github.com/catphone50/git-branch.git
+   53  git push -u origin gitignore
+   54  git remote remove origin
+   55  git remote add origin https://github.com/catphone50/git-branch.git
+   56  git push -u origin gitignore
+   57  git remote add origin https://github.com/catphone50/git-branch.git
+   58  git remote remove origin
+   59  git remote add origin https://github.com/catphone50/gitignore.git
+   60  git push -u origin gitignore
+   61  git clone https://github.com/your-username/my-repo.git
+   62  git clone https://github.com/catphone50/gitignore.git
+   63  cd gitignore
+   64  git checkout -b feature
+   65  echo "# My Project" > README.md
+   66  echo "node_modules/" > .gitignore
+   67  git add README.md .gitignore
+   68  git commit -m "Add README.md and update .gitignore"
+   69  git push origin feature
+   70  git commit --amend -m "Add README.md and update .gitignore - amended"
+   71  git push --force origin feature
+   72  git checkout main
+   73  git merge feature
+   74  history > history.txt
